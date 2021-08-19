@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='androidx.fragment.app.FragmentActivity void onRequestPermissionsResult(int, java.lang.String[], int[])'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
